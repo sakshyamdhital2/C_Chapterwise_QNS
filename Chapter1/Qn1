@@ -1,0 +1,18 @@
+Q1. Program to Calculate Simple Interest
+(a) Problem Analysis
+Problem: Calculate Simple Interest.
+Inputs:Principal (P),Time (T),Rate (R)
+Process:
+Use formula:
+Simple Interest (SI) = (P × T × R) / 100
+Output:
+Simple Interest (SI)
+
+(b) Algorithm
+
+step1:Start
+step2:Declare variables P, T, R, SI
+step3:Input values of P, T, and R
+step4:Calculate SI = (P * T * R) / 100
+step5:Display SI
+step6:Stop

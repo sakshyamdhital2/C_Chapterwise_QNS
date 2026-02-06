@@ -1,0 +1,19 @@
+Q2. Quadratic Equation Program Gives Incorrect Output
+(a) Identify the Error
+The program runs but gives wrong output
+Therefore, the error is a Logical Error
+ Syntax Error → program won’t compile
+ Runtime Error → program crashes
+ Logical Error → program runs but result is wrong
+
+ (c) Compilation and Execution in C
+Compilation
+The compiler checks:
+-Syntax errors
+-Converts C code into machine code
+-If errors exist → program does not compile
+Execution
+-After successful compilation:
+-Program is loaded into memory
+-Instructions are executed line by line
+-Output is displayed
