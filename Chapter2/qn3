@@ -1,0 +1,18 @@
+Q3. Program to calculate the area and perimeter of a rectangle
+1. Problem Analysis
+
+The program calculates the area and perimeter of a rectangle using its length and breadth.
+Input: Length (L), Breadth (B)
+Process:
+Area = L × B
+Perimeter = 2 × (L + B)
+Output: Area and Perimeter
+
+2. Algorithm
+step:1 Start
+step:2 Declare variables L, B, Area, Perimeter
+step:3 Input length and breadth
+step:4 Calculate Area = L × B
+step:5 Calculate Perimeter = 2 × (L + B)
+step:6 Display area and perimeter
+step:7 Stop

@@ -1,0 +1,15 @@
+Q4. Program that takes a character as input
+1. Problem Analysis
+The program takes a character and:
+Displays its ASCII value
+Converts lowercase to uppercase
+Converts uppercase to lowercase
+
+2. Algorithm
+step:1 Start
+step:2 Declare a character variable ch
+step:3 Input a character
+step:4 Display ASCII value
+step:5 Check and convert case
+step:6 Display result
+step:7 Stop
